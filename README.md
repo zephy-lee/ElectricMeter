@@ -6,14 +6,16 @@ Android application for Atorch BLE device
 
 ## ScreenShot
 <img src="https://github.com/zephy-lee/ElectricMeter/blob/main/portrait_Electric_Meter.jpg" width="432" height="936"/>
-<img src="https://github.com/zephy-lee/ElectricMeter/blob/main/settings_Electric_Meter.jpg" width="432" height="936"/><p>
-<img src="https://github.com/zephy-lee/ElectricMeter/blob/main/land_Electric_Meter.jpg" width="936" height="432"/>><br>
+<img src="https://github.com/zephy-lee/ElectricMeter/blob/main/settings_Electric_Meter.jpg" width="432" height="936"/>
+<img src="https://github.com/zephy-lee/ElectricMeter/blob/main/land_Electric_Meter.jpg" width="936" height="432"/>
 
 ## Download
 TBD
 
-##
-
 ## Reference
 - <https://github.com/NiceLabs/atorch-console>
 - <https://github.com/msillano/UD18-protocol-and-node-red>
+
+## Donation
+
+If this app help to, you can give me a cup of coffee :)
