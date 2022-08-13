@@ -5,9 +5,9 @@ Android application for Atorch BLE device
 ## How to use
 
 ## ScreenShot
-![Portrait](portrait_Electric_Meter.jpg) 
-![Landscape](land_Electric_Meter.jpg)
-!Settings(settings_Electric_Meter.jpg)
+![Landscape]<img src="https://github.com/zephy-lee/ElectricMeter/blob/main/land_Electric_Meter.jpg" width="936" height="432"/>
+![Portrait]<img src="https://github.com/zephy-lee/ElectricMeter/blob/main/land_Electric_Meter.jpg" width="432" height="936"/>
+![Settings]<img src="https://github.com/zephy-lee/ElectricMeter/blob/main/settings_Electric_Meter.jpg" width="432" height="936"/>
 
 ## Download
 TBD
