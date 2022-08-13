@@ -7,10 +7,12 @@ Android application for Atorch BLE device
 ## ScreenShot
 <table>
   <tr>
+    <th>Searching</th>
     <th>View Screen</th>
     <th>Settings</th>
   </tr>
   <tr>
+    <td><img src="https://github.com/zephy-lee/ElectricMeter/blob/main/searching_Electric_Meter.jpg" width="324" height="702"/></td>
     <td><img src="https://github.com/zephy-lee/ElectricMeter/blob/main/portrait_Electric_Meter.jpg" width="324" height="702"/></td>
     <td><img src="https://github.com/zephy-lee/ElectricMeter/blob/main/settings_Electric_Meter.jpg" width="324" height="702"/></td>
   </tr></table>
@@ -25,4 +27,4 @@ TBD
 
 ## Donation
 
-If this app help to, you can give me a cup of coffee :)
+If this app helps to you, please give me a cup of coffee :)
