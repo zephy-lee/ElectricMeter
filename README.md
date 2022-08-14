@@ -1,4 +1,5 @@
-# Eletric Meter [![Logo](ic_playstore.png)]
+
+# Eletric Meter <img src="ic_playstore.png" width="24">
 Android application for Atorch BLE device
 
 ## How to use
