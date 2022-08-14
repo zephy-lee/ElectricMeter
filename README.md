@@ -33,4 +33,5 @@ TBD
 
 ## Donation
 
-If this app helps to you, please give me a cup of coffee :)
+If this app helps to you, please give me a cup of coffee :) <br>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](d_pp.html)
