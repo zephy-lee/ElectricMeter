@@ -1,8 +1,13 @@
-# Eletric Meter
-
+# Eletric Meter [![Logo](ic_playstore.png)]
 Android application for Atorch BLE device
 
 ## How to use
+1. Plug your USB Digital Tester into the charger and the Bluetooth indicator will light up.
+2. Launch this app on your phone, and tap bluetooth icon on 'Searching'.
+3. If cannot connect (timeout), please re-try and check the your test device's bluetooth icon.
+ (If bluethooth icon does not blink but ligth up, pull the plug and plug in.)
+ Still you cannot connect, please remove this app. Your deivce cannot support.
+4. When you tab the device name or device address, you can see 'Settings'.
 
 ## ScreenShot
 <table>
