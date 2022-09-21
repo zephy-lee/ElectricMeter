@@ -25,7 +25,7 @@ Android application for Atorch BLE device
 <img src="https://github.com/zephy-lee/ElectricMeter/blob/main/land_Electric_Meter.jpg" width="702" height="324"/>
 
 ## Download
-TBD
+<https://play.google.com/store/apps/details?id=com.zephy.vatester>
 
 ## Reference
 - <https://github.com/NiceLabs/atorch-console>
