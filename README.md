@@ -34,24 +34,3 @@ Android application for Atorch BLE device
 ## Donation
 
 If this app helps to you, please give me a cup of coffee :) <br>
-<div id="paypal-button-container-P-46498706UP711203DNKI2QAA"></div>
-<script src="https://www.paypal.com/sdk/js?client-id=BAAqnGY16c626SSQF5Zyw2GF56aD6Q90XZdtOYhWkPZTKX2veOT77zOk7aYyYrox2_WyXqz6FTckL1LTtc&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
-<script>
-  paypal.Buttons({
-      style: {
-          shape: 'rect',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'paypal'
-      },
-      createSubscription: function(data, actions) {
-        return actions.subscription.create({
-          /* Creates the subscription */
-          plan_id: 'P-46498706UP711203DNKI2QAA'
-        });
-      },
-      onApprove: function(data, actions) {
-        alert(data.subscriptionID); // You can add optional success message for the subscriber here
-      }
-  }).render('#paypal-button-container-P-46498706UP711203DNKI2QAA'); // Renders the PayPal button
-</script>
